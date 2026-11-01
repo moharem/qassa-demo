@@ -1,4 +1,4 @@
-# Copied into moharem/dorak-demo by deploy-pages.sh. Free Supabase projects
+# Copied into moharem/qassa-demo by deploy-pages.sh. Free Supabase projects
 # pause after a week without use, which breaks the live two-phone demo, so this
 # calls the project twice a week.
 name: Supabase keepalive
